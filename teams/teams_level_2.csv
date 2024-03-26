@@ -1,0 +1,4 @@
+name,description,parent_team
+team_A_1,チームA_1,team_A
+team_A_2,チームA_2,team_A
+team_B_1,チームA_1,team_B
